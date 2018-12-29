@@ -1,6 +1,12 @@
 # Label File Generator for MS Dynamics 365 for Operations
 Generate label files for Microsoft Dynamics 365 for Operations core models in specific languages. After generating the files, you will be able to search for labels in other languages.
 
+You are more than welcome to contribute!
+
+# Download
+You can download the executable directly from SourceForge:
+
+
 # Instructions
 1) Select the AOS Service folder (if it's not automatically set)
 2) Select the desired language
