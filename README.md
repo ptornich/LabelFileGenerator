@@ -22,3 +22,5 @@ After downloading you will find a self contained executable that can be run from
 ![](https://github.com/ptornich/LabelFileGenerator/blob/master/Screenshots/screenshot_02.png)
 
 ![](https://github.com/ptornich/LabelFileGenerator/blob/master/Screenshots/screenshot_03.png)
+
+![](https://github.com/ptornich/LabelFileGenerator/blob/master/Screenshots/screenshot_04.png)
