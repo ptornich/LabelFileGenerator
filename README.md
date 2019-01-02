@@ -4,7 +4,7 @@ Generate label files for Microsoft Dynamics 365 for Operations core models in sp
 You are more than welcome to contribute!
 
 # Download
-You can download the latest release from SourceForge: https://sourceforge.net/projects/label-file-generator/files/v1.0/LabelFileGenerator.exe/download
+You can download the latest release from here: https://github.com/ptornich/LabelFileGenerator/releases/download/v1.0/LabelFileGenerator.exe
 
 After downloading you will find a self contained executable that can be run from any folder.
 
