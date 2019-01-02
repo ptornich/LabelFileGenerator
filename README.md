@@ -3,10 +3,10 @@ Generate label files for Microsoft Dynamics 365 for Operations core models in sp
 
 You are more than welcome to contribute!
 
-## You can download the latest release from SourceForge:
-https://sourceforge.net/projects/label-file-generator/files/v1.0/LabelFileGenerator.exe/download
+# Download
+You can download the latest release from SourceForge: https://sourceforge.net/projects/label-file-generator/files/v1.0/LabelFileGenerator.exe/download
 
-## Instructions
+# Instructions
 1) Select the AOS Service folder (if it's not automatically set)
 2) Select the desired language
 3) Click the "Generate label files" button
