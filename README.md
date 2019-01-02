@@ -14,3 +14,11 @@ After downloading you will find a self contained executable that can be run from
 3) Click the "Generate label files" button
 4) Wait until all label files are created (usually it takes about 25min)
 5) Done!
+
+# Screen shots
+
+![](https://github.com/ptornich/LabelFileGenerator/blob/master/Screenshots/screenshot_01.png)
+
+![](https://github.com/ptornich/LabelFileGenerator/blob/master/Screenshots/screenshot_02.png)
+
+![](https://github.com/ptornich/LabelFileGenerator/blob/master/Screenshots/screenshot_03.png)
