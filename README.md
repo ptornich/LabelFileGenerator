@@ -6,6 +6,8 @@ You are more than welcome to contribute!
 # Download
 You can download the latest release from SourceForge: https://sourceforge.net/projects/label-file-generator/files/v1.0/LabelFileGenerator.exe/download
 
+On every release you will find a self contained file that can be run from any folder.
+
 # Instructions
 1) Select the AOS Service folder (if it's not automatically set)
 2) Select the desired language
