@@ -496,20 +496,9 @@ namespace LabelFileGenerator
 
         public void initAvailableLanguages()
         {
-            var foundationLabelResourcesFolder = Arguments.AOSServiceFolder + FoundationModelPath + LabelResourcesPath;
-            var folderPaths = Directory.EnumerateDirectories(foundationLabelResourcesFolder);
-
-            foreach (string folderPath in folderPaths)
-            {
-                string folderName = folderPath.Split(Path.DirectorySeparatorChar).Last();
-
-                if (folderName.ToLower() != "en-us")
-                {
-                    AvailableLanguages.Add(folderName);
-                }
-            }
+            AvailableLanguages.AddRange(LabelHelper.GetInstalledLanguages().ToArray());
         }
-        
+
         public void Run()
         {
             if (init())
